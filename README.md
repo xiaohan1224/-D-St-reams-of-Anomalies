@@ -27,7 +27,7 @@ The anomalies are detected using the methods above.
 
 .
 ├── notebooks
-│     └── Anomaly_detection.ipyb
+│     └── Anomaly_Detection.ipyb
 ├── README.md
 └── data
       └── machine_temperature_system_failure.csv
