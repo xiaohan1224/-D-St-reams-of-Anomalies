@@ -5,6 +5,7 @@
 Resource: https://github.com/numenta/NAB/tree/master/data
 
 The dataset chosen is machine temperature system failure. The anomalies are detected using:
+
     * a) IQR
     * b) Isolation Forest
     * c) KNN
